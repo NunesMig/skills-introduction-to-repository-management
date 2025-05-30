@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @NunesMig
+/src/backend/database.py      @NunesMig
+/src/backend/routers/auth.py  @NunesMig
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @NunesMig
